@@ -35,7 +35,7 @@ export default function Home() {
         <p style={{
           fontSize: "1.1rem",
           lineHeight: 1.8,
-          color: "#444"
+          color: "#333"
         }}>
           Estoy desarrollando una nueva plataforma que articula mi trabajo artístico,
           curatorial y de investigación en torno al sonido, el territorio y la cultura.
