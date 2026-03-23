@@ -18,6 +18,16 @@ export default function Home() {
           textTransform: "uppercase",
           color: "#666",
           marginBottom: "1.5rem"
+      <p style={{
+  fontSize: "1rem",
+  fontWeight: 700,
+  letterSpacing: "0.18em",
+  textTransform: "uppercase",
+  color: "#555",
+  marginBottom: "1.5rem"
+}}>
+  Sergio Ruiz Trejo
+</p>
         }}>
           Sergio Ruiz Trejo
         </p>
